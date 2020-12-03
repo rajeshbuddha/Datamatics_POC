@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="819197" started-at="2020-12-03T07:56:21Z" finished-at="2020-12-03T08:10:00Z">
+    <groups>
+      <group name="regression">
+        <method signature="TC_001_Get_Weather_Max_Report_For_WeekDay.TC_001_Get_Weather_Max_Report_For_WeekDays()[pri:0, instance:WebTestCases.TC_001_Get_Weather_Max_Report_For_WeekDay@5702b3b1]" name="TC_001_Get_Weather_Max_Report_For_WeekDays" class="WebTestCases.TC_001_Get_Weather_Max_Report_For_WeekDay"/>
+        <method signature="TC_002_Get_hourly_Weather_report_for_day.TC_002_Get_Hourly_Weather_Report_For_Day()[pri:0, instance:WebTestCases.TC_002_Get_hourly_Weather_report_for_day@3159c4b8]" name="TC_002_Get_Hourly_Weather_Report_For_Day" class="WebTestCases.TC_002_Get_hourly_Weather_report_for_day"/>
+        <method signature="TC_003_Get_hourly_Weather_report_for_day_and_hide_the_day.TC_003_Get_Hourly_Weather_Report_For_Day_And_Hide_The_Day()[pri:0, instance:WebTestCases.TC_003_Get_hourly_Weather_report_for_day_and_hide_the_day@73846619]" name="TC_003_Get_Hourly_Weather_Report_For_Day_And_Hide_The_Day" class="WebTestCases.TC_003_Get_hourly_Weather_report_for_day_and_hide_the_day"/>
+        <method signature="TC_004_Daily_forecast_should_summarize_the_3_hour_data.TC_004_Daily_Forecast_Should_Summarize_The_3_Hour_Data()[pri:0, instance:WebTestCases.TC_004_Daily_forecast_should_summarize_the_3_hour_data@4bec1f0c]" name="TC_004_Daily_Forecast_Should_Summarize_The_3_Hour_Data" class="WebTestCases.TC_004_Daily_forecast_should_summarize_the_3_hour_data"/>
+        <method signature="TC_005_Get_all_city_weather_report.TC_005_Get_All_City_Weather_Report()[pri:0, instance:WebTestCases.TC_005_Get_all_city_weather_report@29ca901e]" name="TC_005_Get_All_City_Weather_Report" class="WebTestCases.TC_005_Get_all_city_weather_report"/>
+        <method signature="TC_006_Validate_error_message_when_user_enter_invalid_city.TC_006_Validate_Error_Message_When_User_Enter_Invalid_City()[pri:0, instance:WebTestCases.TC_006_Validate_error_message_when_user_enter_invalid_city@5649fd9b]" name="TC_006_Validate_Error_Message_When_User_Enter_Invalid_City" class="WebTestCases.TC_006_Validate_error_message_when_user_enter_invalid_city"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="TC_001_Get_Weather_Max_Report_For_WeekDay.TC_001_Get_Weather_Max_Report_For_WeekDays()[pri:0, instance:WebTestCases.TC_001_Get_Weather_Max_Report_For_WeekDay@5702b3b1]" name="TC_001_Get_Weather_Max_Report_For_WeekDays" class="WebTestCases.TC_001_Get_Weather_Max_Report_For_WeekDay"/>
+        <method signature="TC_002_Get_hourly_Weather_report_for_day.TC_002_Get_Hourly_Weather_Report_For_Day()[pri:0, instance:WebTestCases.TC_002_Get_hourly_Weather_report_for_day@3159c4b8]" name="TC_002_Get_Hourly_Weather_Report_For_Day" class="WebTestCases.TC_002_Get_hourly_Weather_report_for_day"/>
+        <method signature="TC_003_Get_hourly_Weather_report_for_day_and_hide_the_day.TC_003_Get_Hourly_Weather_Report_For_Day_And_Hide_The_Day()[pri:0, instance:WebTestCases.TC_003_Get_hourly_Weather_report_for_day_and_hide_the_day@73846619]" name="TC_003_Get_Hourly_Weather_Report_For_Day_And_Hide_The_Day" class="WebTestCases.TC_003_Get_hourly_Weather_report_for_day_and_hide_the_day"/>
+        <method signature="TC_004_Daily_forecast_should_summarize_the_3_hour_data.TC_004_Daily_Forecast_Should_Summarize_The_3_Hour_Data()[pri:0, instance:WebTestCases.TC_004_Daily_forecast_should_summarize_the_3_hour_data@4bec1f0c]" name="TC_004_Daily_Forecast_Should_Summarize_The_3_Hour_Data" class="WebTestCases.TC_004_Daily_forecast_should_summarize_the_3_hour_data"/>
+        <method signature="TC_005_Get_all_city_weather_report.TC_005_Get_All_City_Weather_Report()[pri:0, instance:WebTestCases.TC_005_Get_all_city_weather_report@29ca901e]" name="TC_005_Get_All_City_Weather_Report" class="WebTestCases.TC_005_Get_all_city_weather_report"/>
+        <method signature="TC_006_Validate_error_message_when_user_enter_invalid_city.TC_006_Validate_Error_Message_When_User_Enter_Invalid_City()[pri:0, instance:WebTestCases.TC_006_Validate_error_message_when_user_enter_invalid_city@5649fd9b]" name="TC_006_Validate_Error_Message_When_User_Enter_Invalid_City" class="WebTestCases.TC_006_Validate_error_message_when_user_enter_invalid_city"/>
+      </group> <!-- smoke -->
+      <group name="WebApplication">
+        <method signature="TC_001_Get_Weather_Max_Report_For_WeekDay.TC_001_Get_Weather_Max_Report_For_WeekDays()[pri:0, instance:WebTestCases.TC_001_Get_Weather_Max_Report_For_WeekDay@5702b3b1]" name="TC_001_Get_Weather_Max_Report_For_WeekDays" class="WebTestCases.TC_001_Get_Weather_Max_Report_For_WeekDay"/>
+        <method signature="TC_002_Get_hourly_Weather_report_for_day.TC_002_Get_Hourly_Weather_Report_For_Day()[pri:0, instance:WebTestCases.TC_002_Get_hourly_Weather_report_for_day@3159c4b8]" name="TC_002_Get_Hourly_Weather_Report_For_Day" class="WebTestCases.TC_002_Get_hourly_Weather_report_for_day"/>
+        <method signature="TC_003_Get_hourly_Weather_report_for_day_and_hide_the_day.TC_003_Get_Hourly_Weather_Report_For_Day_And_Hide_The_Day()[pri:0, instance:WebTestCases.TC_003_Get_hourly_Weather_report_for_day_and_hide_the_day@73846619]" name="TC_003_Get_Hourly_Weather_Report_For_Day_And_Hide_The_Day" class="WebTestCases.TC_003_Get_hourly_Weather_report_for_day_and_hide_the_day"/>
+        <method signature="TC_004_Daily_forecast_should_summarize_the_3_hour_data.TC_004_Daily_Forecast_Should_Summarize_The_3_Hour_Data()[pri:0, instance:WebTestCases.TC_004_Daily_forecast_should_summarize_the_3_hour_data@4bec1f0c]" name="TC_004_Daily_Forecast_Should_Summarize_The_3_Hour_Data" class="WebTestCases.TC_004_Daily_forecast_should_summarize_the_3_hour_data"/>
+        <method signature="TC_005_Get_all_city_weather_report.TC_005_Get_All_City_Weather_Report()[pri:0, instance:WebTestCases.TC_005_Get_all_city_weather_report@29ca901e]" name="TC_005_Get_All_City_Weather_Report" class="WebTestCases.TC_005_Get_all_city_weather_report"/>
+        <method signature="TC_006_Validate_error_message_when_user_enter_invalid_city.TC_006_Validate_Error_Message_When_User_Enter_Invalid_City()[pri:0, instance:WebTestCases.TC_006_Validate_error_message_when_user_enter_invalid_city@5649fd9b]" name="TC_006_Validate_Error_Message_When_User_Enter_Invalid_City" class="WebTestCases.TC_006_Validate_error_message_when_user_enter_invalid_city"/>
+      </group> <!-- WebApplication -->
+    </groups>
+    <test name="Web" duration-ms="819197" started-at="2020-12-03T07:56:21Z" finished-at="2020-12-03T08:10:00Z">
+      <class name="WebTestCases.TC_002_Get_hourly_Weather_report_for_day">
+        <test-method status="PASS" signature="TC_002_Get_Hourly_Weather_Report_For_Day()[pri:0, instance:WebTestCases.TC_002_Get_hourly_Weather_report_for_day@3159c4b8]" name="TC_002_Get_Hourly_Weather_Report_For_Day" duration-ms="26596" started-at="2020-12-03T13:27:30Z" description="This is simple test" finished-at="2020-12-03T13:27:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_002_Get_Hourly_Weather_Report_For_Day -->
+      </class> <!-- WebTestCases.TC_002_Get_hourly_Weather_report_for_day -->
+      <class name="WebTestCases.TC_005_Get_all_city_weather_report">
+        <test-method status="PASS" signature="TC_005_Get_All_City_Weather_Report()[pri:0, instance:WebTestCases.TC_005_Get_all_city_weather_report@29ca901e]" name="TC_005_Get_All_City_Weather_Report" duration-ms="299549" started-at="2020-12-03T13:31:48Z" description="This is simple test" finished-at="2020-12-03T13:36:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_005_Get_All_City_Weather_Report -->
+      </class> <!-- WebTestCases.TC_005_Get_all_city_weather_report -->
+      <class name="WebTestCases.TC_004_Daily_forecast_should_summarize_the_3_hour_data">
+        <test-method status="PASS" signature="TC_004_Daily_Forecast_Should_Summarize_The_3_Hour_Data()[pri:0, instance:WebTestCases.TC_004_Daily_forecast_should_summarize_the_3_hour_data@4bec1f0c]" name="TC_004_Daily_Forecast_Should_Summarize_The_3_Hour_Data" duration-ms="77285" started-at="2020-12-03T13:29:53Z" description="This is simple test" finished-at="2020-12-03T13:31:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_004_Daily_Forecast_Should_Summarize_The_3_Hour_Data -->
+      </class> <!-- WebTestCases.TC_004_Daily_forecast_should_summarize_the_3_hour_data -->
+      <class name="WebTestCases.TC_006_Validate_error_message_when_user_enter_invalid_city">
+        <test-method status="PASS" signature="TC_006_Validate_Error_Message_When_User_Enter_Invalid_City()[pri:0, instance:WebTestCases.TC_006_Validate_error_message_when_user_enter_invalid_city@5649fd9b]" name="TC_006_Validate_Error_Message_When_User_Enter_Invalid_City" duration-ms="84749" started-at="2020-12-03T13:37:56Z" description="This is simple test" finished-at="2020-12-03T13:39:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_006_Validate_Error_Message_When_User_Enter_Invalid_City -->
+      </class> <!-- WebTestCases.TC_006_Validate_error_message_when_user_enter_invalid_city -->
+      <class name="WebTestCases.TC_001_Get_Weather_Max_Report_For_WeekDay">
+        <test-method status="PASS" signature="TC_001_Get_Weather_Max_Report_For_WeekDays()[pri:0, instance:WebTestCases.TC_001_Get_Weather_Max_Report_For_WeekDay@5702b3b1]" name="TC_001_Get_Weather_Max_Report_For_WeekDays" duration-ms="61323" started-at="2020-12-03T13:26:21Z" description="This is simple test" finished-at="2020-12-03T13:27:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_001_Get_Weather_Max_Report_For_WeekDays -->
+      </class> <!-- WebTestCases.TC_001_Get_Weather_Max_Report_For_WeekDay -->
+      <class name="WebTestCases.TC_003_Get_hourly_Weather_report_for_day_and_hide_the_day">
+        <test-method status="PASS" signature="TC_003_Get_Hourly_Weather_Report_For_Day_And_Hide_The_Day()[pri:0, instance:WebTestCases.TC_003_Get_hourly_Weather_report_for_day_and_hide_the_day@73846619]" name="TC_003_Get_Hourly_Weather_Report_For_Day_And_Hide_The_Day" duration-ms="48336" started-at="2020-12-03T13:28:10Z" description="This is simple test" finished-at="2020-12-03T13:28:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_003_Get_Hourly_Weather_Report_For_Day_And_Hide_The_Day -->
+      </class> <!-- WebTestCases.TC_003_Get_hourly_Weather_report_for_day_and_hide_the_day -->
+    </test> <!-- Web -->
+  </suite> <!-- Suite -->
+</testng-results>

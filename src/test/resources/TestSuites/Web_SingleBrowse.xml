@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test name="Web">
+		<groups>
+			<run>
+				<include name="regression" />
+			</run>
+		</groups>
+		<classes>
+		<class name="WebTestCases.TC_001_Get_Weather_Max_Report_For_WeekDay" />
+		<class name="WebTestCases.TC_002_Get_hourly_Weather_report_for_day" />
+		<class name="WebTestCases.TC_003_Get_hourly_Weather_report_for_day_and_hide_the_day" />
+		<class name="WebTestCases.TC_004_Daily_forecast_should_summarize_the_3_hour_data" />
+		<class name="WebTestCases.TC_005_Get_all_city_weather_report" />
+		<class name="WebTestCases.TC_006_Validate_error_message_when_user_enter_invalid_city" />
+		</classes>
+	</test>
+</suite> <!-- Suite -->

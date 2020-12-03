@@ -1,0 +1,24 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="AndroidNativeSuite" verbose="1" parallel="tests"
+	thread-count="2">
+	<test name="Android native app test on Android 8">
+		<parameter name="platform" value="Android 6.0.1" />
+		<parameter name="udid" value="4200a84fe039c400" />
+		<parameter name="systemPort" value="8201" />
+		<parameter name="deviceName" value="Galaxy J2 Pro" />
+		<classes>
+			<!-- <class name="AndroidTestCases.AndroidNativeParallelTests" /> -->
+			<class name="AndroidTestCases.TC_001" />
+		</classes>
+	</test>
+	<test name="Android native app test on Android 9">
+		<parameter name="platform" value="Android 8.1.0" />
+		<parameter name="udid" value="0106d6a4bf935268" />
+		<parameter name="systemPort" value="8200" />
+		<parameter name="deviceName" value="Nexus 5X" />
+		<classes>
+			<!-- <class name="AndroidTestCases.AndroidNativeParallelTests" /> -->
+			<class name="AndroidTestCases.TC_001" />
+		</classes>
+	</test>
+</suite>

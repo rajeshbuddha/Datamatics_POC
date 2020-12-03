@@ -1,0 +1,7 @@
+"Date","Time","Test Case ID","Description","Result"
+"2020/12/03","13:29:53","TC_004_Daily_Forecast_Should_Summarize_The_3_Hour_Data","This is simple test","PASS"
+"2020/12/03","13:37:56","TC_006_Validate_Error_Message_When_User_Enter_Invalid_City","This is simple test","PASS"
+"2020/12/03","13:27:30","TC_002_Get_Hourly_Weather_Report_For_Day","This is simple test","PASS"
+"2020/12/03","13:28:10","TC_003_Get_Hourly_Weather_Report_For_Day_And_Hide_The_Day","This is simple test","PASS"
+"2020/12/03","13:31:48","TC_005_Get_All_City_Weather_Report","This is simple test","PASS"
+"2020/12/03","13:26:21","TC_001_Get_Weather_Max_Report_For_WeekDays","This is simple test","PASS"

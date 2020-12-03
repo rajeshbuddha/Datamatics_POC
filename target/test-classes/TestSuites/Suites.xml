@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="allSuite"  parallel="instances" thread-count="3">
+<suite-files>
+    <suite-file path="Web_SingleBrowse.xml" />
+    <suite-file path="Android_Suite_SingleDevice.xml" />
+  </suite-files>
+
+</suite> <!-- Suite -->
